@@ -1,0 +1,10 @@
+streamlit==1.38.0
+pandas
+requests
+plotly>=5.0.0
+wordcloud
+matplotlib
+pyarrow
+rich<14,>=10.14.0
+pillow<11,>=7.1.0
+textblob
